@@ -7,5 +7,6 @@ npm init - y
 ## Install tailwind
 
 ```bash
-npm i -D tailwindcss
+npm install -D tailwindcss
+npx tailwindcss init
 ```
